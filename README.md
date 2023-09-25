@@ -3,8 +3,8 @@
 ## 🚀 À propos de moi
 Je suis un étudiant en deuxième année d'Intelligence Artificielle passionné par le développement web, le développement Python, l'intelligence artificielle et le design graphique.
 
-- 🌱 Je suis actuellement en train d'apprendre : Intelligence Artificielle
-- 👯 Je cherche à collaborer sur des projets Python et Web
+- 🌱 Je suis actuellement en train d'apprendre : L'Intelligence Artificielle, le Développement Python et le Développement Web
+- 👯 Je cherche à collaborer sur des projets Python, Intelligence Artificielle et Web
 - 🤔 Je cherche de l'aide pour mes projets d'Intelligence Artificielle
 - 💬 Demandez-moi à propos de : Développement Web, Développement Python, Design Graphique
 - 📫 Comment me joindre : rubensalumu70@gmail.com
