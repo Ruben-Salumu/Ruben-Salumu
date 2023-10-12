@@ -20,6 +20,6 @@ Je suis un étudiant en deuxième année d'Intelligence Artificielle passionné 
 
 
 ## 📫 Contactez-moi 
-- LinkedIn : https://www.linkedin.com/in/shammah-salumu-303521271
+- LinkedIn : https://www.linkedin.com/in/ruben-salumu-303521271
 - Email : rubensalumu70@gmail.com
 - WhatsApp : +243 970655166
