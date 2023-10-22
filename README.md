@@ -12,7 +12,7 @@ Je suis un étudiant en deuxième année d'Intelligence Artificielle passionné 
 - ⚡ Fun fact : J'aime jouer au piano et chanter
 
 ## 🛠️ Compétences techniques
-- Développement Web | HTML | CSS | JavaScript
+- Développement Web | HTML | CSS | Django
 - Backend | Python 
 - Bibliothèques/Frameworks | Flask | Django  | Pytorch  | Numpy
 - Bases de données | MySQL 
