@@ -1,7 +1,7 @@
 # Bonjour, je suis Ruben Salumu 👋
 
 ## 🚀 À propos de moi
-Je suis un étudiant en Troisième année d'Intelligence Artificielle passionné par le développement web(Django), le développement Python, l'intelligence artificielle, le design graphique et la photographie.
+Je suis un étudiant en Quatrième année d'Intelligence Artificielle passionné par le développement web(Django), le développement Python, l'intelligence artificielle, le design graphique et la photographie.
 
 - 🌱 Je suis actuellement en train d'apprendre : L'Intelligence Artificielle, le Développement Python et le Développement Web (Django)
 - 👯 Je cherche à collaborer sur des projets Python, Intelligence Artificielle et Web(Django)
