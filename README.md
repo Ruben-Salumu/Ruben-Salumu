@@ -1,11 +1,11 @@
 # Bonjour, je suis Ruben Salumu 👋
 
 ## 🚀 À propos de moi
-Je suis développeur Python, développeur web backend, développeur Django , Intéresser par Intelligence Artificielle,  et designer graphique 
+Je suis développeur Python, développeur web backend, développeur Django ,développeur Machine Learning & Deep Learning,  et designer graphique 
 
 
-- 👯 Je cherche à collaborer sur des projets Python, Intelligence Artificielle et Web(Django)
-- 🤔 Je cherche de l'aide pour mes projets d'Intelligence Artificielle
+-  Je cherche à collaborer sur des projets Python, Intelligence Artificielle et Web(Django)
+-  Je cherche à collaborer sur des projets projets Machine Learning & Deep Learning
 - 💬 Demandez-moi à propos de : Développement Web (Django), Développement Python, Design Graphique
 - 📫 Comment me joindre : rubensalumu70@gmail.com
 - 😄 Pronoms : Il/Lui
@@ -14,7 +14,7 @@ Je suis développeur Python, développeur web backend, développeur Django , Int
 ## 🛠️ Compétences techniques
 - Développement Web | HTML | CSS | Django
 - Backend | Python 
-- Bibliothèques/Frameworks | Flask | Django  | Pytorch  | Numpy | TensorFlow
+- Bibliothèques/Frameworks | Flask | Django  | Pytorch  | Numpy | TensorFlow | Pandas 
 - Bases de données | MySQL 
 - Design graphique | Photoshop | Illustrator | Indesign 
 
