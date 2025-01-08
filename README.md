@@ -14,7 +14,7 @@ Je suis développeur Python, développeur web backend, développeur Django ,dév
 ## 🛠️ Compétences techniques
 - Développement Web | HTML | CSS | Django
 - Backend | Python 
-- Bibliothèques/Frameworks | Flask | Django  | Pytorch  | Numpy | TensorFlow | Pandas 
+- Bibliothèques/Frameworks | Flask | Django  | Numpy | Pandas | Matplotlib | Sklearn | TensorFlow
 - Bases de données | MySQL 
 - Design graphique | Photoshop | Illustrator | Indesign 
 
